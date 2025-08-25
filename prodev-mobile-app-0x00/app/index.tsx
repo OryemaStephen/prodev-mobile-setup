@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>App</Text>
+      <Text>Mobile Application</Text>
     </View>
   );
 }
