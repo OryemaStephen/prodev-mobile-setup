@@ -104,5 +104,5 @@ const styles = StyleSheet.create({
     fontSize: 20,
     backgroundColor: "white",
     flex: 1,
-  }
+  },
 });
